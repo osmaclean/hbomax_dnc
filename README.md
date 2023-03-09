@@ -46,12 +46,6 @@ https://hbomax-dnc.vercel.app
 
 <hr> 
 
-# Link de Acesso ao Projeto (Vercel)
-
-https://landing-page-dnc-eosin.vercel.app
-
-<hr>
-
 # IDE Utilizada
 
 <div> 
